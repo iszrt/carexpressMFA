@@ -4,7 +4,7 @@ import { createStackNavigator } from '@react-navigation/stack'
 import LoginScreen from './components/LoginScreen'
 import DoctorLogin from './components/DoctorLogin'
 import PatientLogin from './components/PaitentLogin'
-//import DoctorDashboard from './components/DoctorDashboard' // Assume you have this    helooooo lalove
+//import DoctorDashboard from './components/DoctorDashboard' // adadasd
 
 //import PatientDashboard from './components/PatientDashboard' // Assume you have this
 
